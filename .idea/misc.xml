@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/back_angezeshi.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/back_clock.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/background_edesdeh.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/backgroundd_target.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/backgroundstart.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/drawable/bck_note.xml" value="0.1185" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/layout/activity_clock.xml" value="0.22" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/layout/activity_new_note.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/NILFAM/Downloads/Compressed/MyApplication/app/src/main/res/layout/recyclerview_new_note.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
